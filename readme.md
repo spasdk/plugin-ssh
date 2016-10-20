@@ -1,9 +1,10 @@
 Remote server handling
 ======================
 
-[![Build Status](https://img.shields.io/travis/spasdk/plugin-ssh.svg?style=flat-square)](https://travis-ci.org/spasdk/plugin-ssh)
-[![NPM version](https://img.shields.io/npm/v/spa-plugin-ssh.svg?style=flat-square)](https://www.npmjs.com/package/spa-plugin-ssh)
-[![Dependencies Status](https://img.shields.io/david/spasdk/plugin-ssh.svg?style=flat-square)](https://david-dm.org/spasdk/plugin-ssh)
+[![build status](https://img.shields.io/travis/spasdk/plugin-ssh.svg?style=flat-square)](https://travis-ci.org/spasdk/plugin-ssh)
+[![npm version](https://img.shields.io/npm/v/spa-plugin-ssh.svg?style=flat-square)](https://www.npmjs.com/package/spa-plugin-ssh)
+[![dependencies status](https://img.shields.io/david/spasdk/plugin-ssh.svg?style=flat-square)](https://david-dm.org/spasdk/plugin-ssh)
+[![devDependencies status](https://img.shields.io/david/dev/spasdk/plugin-ssh.svg?style=flat-square)](https://david-dm.org/spasdk/plugin-ssh?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/spasdk)
 
 
